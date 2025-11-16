@@ -141,12 +141,12 @@ def extrair_letra_completa_corrigida(url_musica, titulo_original, artista_origin
         # Extrair ano
         ano = extrair_ano_melhorado(soup)
         
-        # FILTRO: Apenas músicas de 2023 para frente
-        if ano and ano < 2023:
-            print(f"      ⏭️ Pulando música de {ano} (anterior a 2023)")
-            return None
+        # FILTRO REMOVIDO: Coletando músicas de todos os anos
+        # if ano and ano < 2023:
+        #     print(f"      ⏭️ Pulando música de {ano} (anterior a 2023)")
+        #     return None
         
-        # Se não tem ano, vamos incluir (pode ser recente)
+        # Se não tem ano, vamos incluir mesmo assim
         if not ano:
             print(f"      ⚠️ Ano não encontrado - incluindo mesmo assim")
         
@@ -162,7 +162,7 @@ def extrair_letra_completa_corrigida(url_musica, titulo_original, artista_origin
             'coletado_em': datetime.now().isoformat(),
             'contagem_palavras': len(letra_limpa.split()),
             'contagem_linhas': len(letra_limpa.split('\n')),
-            'fonte': 'sertanejo_moderno_2023+'
+            'fonte': 'sertanejo_todos_anos'
         }
         
         ano_str = f", ano: {ano}" if ano else ", ano: não identificado"
@@ -346,9 +346,9 @@ def coletar_hits_corrigido():
     print(f"🚀 COLETA DE HITS - VERSÃO MANUAL")
     print("=" * 70)
     
-    # Lista de teste para verificar o filtro por ano (2023+)
+    # Lista de teste para verificar coleta sem filtro de ano
     musicas_teste = [
-        # Músicas mais recentes (provavelmente 2023+)
+        # Músicas de diferentes épocas para testar a coleta ampla
         (1, "Amor Dos Outros", "Henrique & Juliano"),
         (2, "Seja Ex", "Henrique & Juliano"),
         (3, "OLHO MARROM", "Luan Santana"),
@@ -379,10 +379,10 @@ def salvar_dados_parciais(musicas_coletadas, posicao_atual):
         print(f"     📁 Backup salvo: {os.path.basename(arquivo_parcial)}")
 
 def coletar_letras_da_lista(musicas_lista):
-    """Coleta letras de uma lista de músicas com filtro 2023+."""
+    """Coleta letras de uma lista de músicas de todos os anos."""
     
     print(f"🎵 Coletando {len(musicas_lista)} músicas sertanejas populares...")
-    print(f"📅 FILTRO: Apenas músicas de 2023 para frente!")
+    print(f"📅 SEM FILTRO: Coletando músicas de todos os anos!")
     print(f"💾 Dados serão salvos em: ../base_de_dados/")
     print(f"⏱️  Tempo estimado: {(len(musicas_lista) * 3 / 60):.1f} minutos")
     
@@ -462,7 +462,7 @@ def coletar_letras_da_lista(musicas_lista):
         
         # Encontrar o próximo número disponível
         import os
-        base_nome = "sertanejo_mais_acessadas_2023+"
+        base_nome = "sertanejo_mais_acessadas_todos_anos"
         contador = 1
         while os.path.exists(f"../base_de_dados/{base_nome}_{contador}.csv"):
             contador += 1
@@ -494,7 +494,7 @@ def coletar_letras_da_lista(musicas_lista):
     return musicas_coletadas
 
 if __name__ == "__main__":
-    print("🚀 SCRAPER MEGA - SERTANEJO MODERNO 2023+")
+    print("🚀 SCRAPER MEGA - SERTANEJO DE TODOS OS ANOS")
     print("🎯 META AMBICIOSA: Coletar até 1000 músicas")
     print("⏱️  EXECUÇÃO LONGA: Pode levar algumas horas")
     print("💾 BACKUP AUTOMÁTICO: Salvamento periódico habilitado")

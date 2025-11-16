@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import glob
 import os
 
-# Arquivo específico
-arquivo_especifico = r"g:\Meu Drive\Mestrado\KDD\Anotacoes de aula\Trabalho pratico\projeto_funk\base_de_dados\sertanejo_parcial_20251013_182222_pos600.csv"
+# Arquivo específico - último arquivo gerado
+arquivo_especifico = r"g:\Meu Drive\Mestrado\KDD\Anotacoes de aula\Trabalho pratico\projeto_funk\base_de_dados\sertanejo_mais_acessadas_todos_anos_1.csv"
 
 # Carregar apenas o arquivo específico
 df_complete = pd.read_csv(arquivo_especifico)
