@@ -1,0 +1,401 @@
+trecho_id,trecho_texto,topico_id,topico_nome,scores_raw,n_validos,media_score,moda_score,desvio_padrao,classificado_positivo,confianca
+0,"É pro meu peito, é pro meu choro...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+0,"É pro meu peito, é pro meu choro...",2,Vida no Crime e Violência,"[4, 3, 4, 3, 3]",5,3.4,3,0.49,0,alta
+0,"É pro meu peito, é pro meu choro...",3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+0,"É pro meu peito, é pro meu choro...",4,Ostentação e Luxo,"[3, 3, 3, 2, 4]",5,3.0,3,0.63,0,media
+0,"É pro meu peito, é pro meu choro...",5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+0,"É pro meu peito, é pro meu choro...",6,Sexualidade e Sedução,"[4, 4, 4, 5, 4]",5,4.2,4,0.4,1,alta
+0,"É pro meu peito, é pro meu choro...",7,Família e Maternidade,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+0,"É pro meu peito, é pro meu choro...",8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+1,Eu disse pra...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+1,Eu disse pra...,2,Vida no Crime e Violência,"[3, 4, 3, 3, 3]",5,3.2,3,0.4,0,alta
+1,Eu disse pra...,3,"Festa, Dança e Diversão","[3, 3, 4, 3, 2]",5,3.0,3,0.63,0,media
+1,Eu disse pra...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+1,Eu disse pra...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+1,Eu disse pra...,6,Sexualidade e Sedução,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+1,Eu disse pra...,7,Família e Maternidade,"[3, 3, 4, 3, 4]",5,3.4,3,0.49,0,alta
+1,Eu disse pra...,8,Superação e Fé,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+2,Chapelão...,1,Romance e Relacionamentos,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+2,Chapelão...,2,Vida no Crime e Violência,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+2,Chapelão...,3,"Festa, Dança e Diversão","[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+2,Chapelão...,4,Ostentação e Luxo,"[4, 4, 3, 4, 3]",5,3.6,4,0.49,1,alta
+2,Chapelão...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+2,Chapelão...,6,Sexualidade e Sedução,"[3, 3, 2, 3, 3]",5,2.8,3,0.4,0,alta
+2,Chapelão...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+2,Chapelão...,8,Superação e Fé,"[4, 3, 4, 4, 4]",5,3.8,4,0.4,1,alta
+3,Será que esse vazio um dia vai me abandonar?...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+3,Será que esse vazio um dia vai me abandonar?...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+3,Será que esse vazio um dia vai me abandonar?...,3,"Festa, Dança e Diversão","[3, 4, 4, 3, 3]",5,3.4,3,0.49,0,alta
+3,Será que esse vazio um dia vai me abandonar?...,4,Ostentação e Luxo,"[3, 4, 3, 3, 4]",5,3.4,3,0.49,0,alta
+3,Será que esse vazio um dia vai me abandonar?...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+3,Será que esse vazio um dia vai me abandonar?...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+3,Será que esse vazio um dia vai me abandonar?...,7,Família e Maternidade,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+3,Será que esse vazio um dia vai me abandonar?...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+4,O erro inesquecível da sua cama...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+4,O erro inesquecível da sua cama...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+4,O erro inesquecível da sua cama...,3,"Festa, Dança e Diversão","[1, 1, 1, 1, 1]",5,1.0,1,0.0,0,alta
+4,O erro inesquecível da sua cama...,4,Ostentação e Luxo,"[4, 3, 3, 4, 4]",5,3.6,4,0.49,1,alta
+4,O erro inesquecível da sua cama...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+4,O erro inesquecível da sua cama...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+4,O erro inesquecível da sua cama...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+4,O erro inesquecível da sua cama...,8,Superação e Fé,"[3, 2, 3, 4, 3]",5,3.0,3,0.63,0,media
+5,Se eu seguir o seu caminho chegarei ao céu...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,2,Vida no Crime e Violência,"[3, 2, 2, 2, 2]",5,2.2,2,0.4,0,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,5,"Sofrimento, Saudade e Melancolia","[4, 3, 4, 4, 4]",5,3.8,4,0.4,1,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,6,Sexualidade e Sedução,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+5,Se eu seguir o seu caminho chegarei ao céu...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+6,Vai ser outro pesadelo...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+6,Vai ser outro pesadelo...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+6,Vai ser outro pesadelo...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+6,Vai ser outro pesadelo...,4,Ostentação e Luxo,"[3, 3, 3, 2, 2]",5,2.6,3,0.49,0,alta
+6,Vai ser outro pesadelo...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+6,Vai ser outro pesadelo...,6,Sexualidade e Sedução,"[2, 2, 3, 3, 3]",5,2.6,3,0.49,0,alta
+6,Vai ser outro pesadelo...,7,Família e Maternidade,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+6,Vai ser outro pesadelo...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+7,E eu nem sei se algum dia eu já me senti assim...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+7,E eu nem sei se algum dia eu já me senti assim...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+7,E eu nem sei se algum dia eu já me senti assim...,3,"Festa, Dança e Diversão","[3, 3, 3, 2, 4]",5,3.0,3,0.63,0,media
+7,E eu nem sei se algum dia eu já me senti assim...,4,Ostentação e Luxo,"[3, 3, 3, 2, 2]",5,2.6,3,0.49,0,alta
+7,E eu nem sei se algum dia eu já me senti assim...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+7,E eu nem sei se algum dia eu já me senti assim...,6,Sexualidade e Sedução,"[3, 3, 3, 3, 4]",5,3.2,3,0.4,0,alta
+7,E eu nem sei se algum dia eu já me senti assim...,7,Família e Maternidade,"[4, 4, 3, 3, 4]",5,3.6,4,0.49,1,alta
+7,E eu nem sei se algum dia eu já me senti assim...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+8,Eu não tava lá na sua mente...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+8,Eu não tava lá na sua mente...,2,Vida no Crime e Violência,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+8,Eu não tava lá na sua mente...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+8,Eu não tava lá na sua mente...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+8,Eu não tava lá na sua mente...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 4, 2]",5,3.0,3,0.63,0,media
+8,Eu não tava lá na sua mente...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+8,Eu não tava lá na sua mente...,7,Família e Maternidade,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+8,Eu não tava lá na sua mente...,8,Superação e Fé,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,3,"Festa, Dança e Diversão","[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,4,Ostentação e Luxo,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,7,Família e Maternidade,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+9,O seu amor é surreal(A solidão) quem só me fez cho...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+10,Colhidas no jardim do amor...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+10,Colhidas no jardim do amor...,2,Vida no Crime e Violência,"[2, 2, 3, 2, 2]",5,2.2,2,0.4,0,alta
+10,Colhidas no jardim do amor...,3,"Festa, Dança e Diversão","[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+10,Colhidas no jardim do amor...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+10,Colhidas no jardim do amor...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+10,Colhidas no jardim do amor...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+10,Colhidas no jardim do amor...,7,Família e Maternidade,"[4, 4, 3, 2, 4]",5,3.4,4,0.8,1,media
+10,Colhidas no jardim do amor...,8,Superação e Fé,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+11,Sem ter você do lado...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+11,Sem ter você do lado...,2,Vida no Crime e Violência,"[3, 4, 3, 4, 3]",5,3.4,3,0.49,0,alta
+11,Sem ter você do lado...,3,"Festa, Dança e Diversão","[3, 3, 2, 4, 3]",5,3.0,3,0.63,0,media
+11,Sem ter você do lado...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+11,Sem ter você do lado...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+11,Sem ter você do lado...,6,Sexualidade e Sedução,"[3, 3, 4, 4, 3]",5,3.4,3,0.49,0,alta
+11,Sem ter você do lado...,7,Família e Maternidade,"[4, 3, 3, 4, 4]",5,3.6,4,0.49,1,alta
+11,Sem ter você do lado...,8,Superação e Fé,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+12,"Baby, eu te amo demais...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+12,"Baby, eu te amo demais...",2,Vida no Crime e Violência,"[2, 2, 2, 3, 2]",5,2.2,2,0.4,0,alta
+12,"Baby, eu te amo demais...",3,"Festa, Dança e Diversão","[4, 4, 4, 2, 4]",5,3.6,4,0.8,1,media
+12,"Baby, eu te amo demais...",4,Ostentação e Luxo,"[2, 2, 2, 3, 3]",5,2.4,2,0.49,0,alta
+12,"Baby, eu te amo demais...",5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+12,"Baby, eu te amo demais...",6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+12,"Baby, eu te amo demais...",7,Família e Maternidade,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+12,"Baby, eu te amo demais...",8,Superação e Fé,"[4, 4, 4, 4, 2]",5,3.6,4,0.8,1,media
+13,"E vai passar o tempo, e a idade...",1,Romance e Relacionamentos,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+13,"E vai passar o tempo, e a idade...",2,Vida no Crime e Violência,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+13,"E vai passar o tempo, e a idade...",3,"Festa, Dança e Diversão","[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+13,"E vai passar o tempo, e a idade...",4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+13,"E vai passar o tempo, e a idade...",5,"Sofrimento, Saudade e Melancolia","[4, 3, 4, 3, 4]",5,3.6,4,0.49,1,alta
+13,"E vai passar o tempo, e a idade...",6,Sexualidade e Sedução,"[2, 3, 3, 2, 3]",5,2.6,3,0.49,0,alta
+13,"E vai passar o tempo, e a idade...",7,Família e Maternidade,"[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+13,"E vai passar o tempo, e a idade...",8,Superação e Fé,"[3, 3, 4, 3, 3]",5,3.2,3,0.4,0,alta
+14,Lembra daquele garoto que sentou do seu lado...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+14,Lembra daquele garoto que sentou do seu lado...,2,Vida no Crime e Violência,"[3, 4, 3, 3, 3]",5,3.2,3,0.4,0,alta
+14,Lembra daquele garoto que sentou do seu lado...,3,"Festa, Dança e Diversão","[3, 3, 3, 2, 2]",5,2.6,3,0.49,0,alta
+14,Lembra daquele garoto que sentou do seu lado...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+14,Lembra daquele garoto que sentou do seu lado...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 3, 4]",5,3.2,3,0.4,0,alta
+14,Lembra daquele garoto que sentou do seu lado...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+14,Lembra daquele garoto que sentou do seu lado...,7,Família e Maternidade,"[3, 2, 3, 3, 2]",5,2.6,3,0.49,0,alta
+14,Lembra daquele garoto que sentou do seu lado...,8,Superação e Fé,"[3, 3, 3, 4, 4]",5,3.4,3,0.49,0,alta
+15,Peguei o décimo terceiro...,1,Romance e Relacionamentos,"[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+15,Peguei o décimo terceiro...,2,Vida no Crime e Violência,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+15,Peguei o décimo terceiro...,3,"Festa, Dança e Diversão","[3, 3, 2, 2, 2]",5,2.4,2,0.49,0,alta
+15,Peguei o décimo terceiro...,4,Ostentação e Luxo,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+15,Peguei o décimo terceiro...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 2, 3]",5,2.8,3,0.4,0,alta
+15,Peguei o décimo terceiro...,6,Sexualidade e Sedução,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+15,Peguei o décimo terceiro...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+15,Peguei o décimo terceiro...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+16,E não tá bom pra mim...,1,Romance e Relacionamentos,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+16,E não tá bom pra mim...,2,Vida no Crime e Violência,"[4, 4, 3, 4, 3]",5,3.6,4,0.49,1,alta
+16,E não tá bom pra mim...,3,"Festa, Dança e Diversão","[3, 3, 3, 3, 4]",5,3.2,3,0.4,0,alta
+16,E não tá bom pra mim...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+16,E não tá bom pra mim...,5,"Sofrimento, Saudade e Melancolia","[3, 4, 3, 3, 4]",5,3.4,3,0.49,0,alta
+16,E não tá bom pra mim...,6,Sexualidade e Sedução,"[3, 2, 2, 2, 3]",5,2.4,2,0.49,0,alta
+16,E não tá bom pra mim...,7,Família e Maternidade,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+16,E não tá bom pra mim...,8,Superação e Fé,"[4, 3, 4, 4, 4]",5,3.8,4,0.4,1,alta
+17,Mas a cabeça tá aqui...,1,Romance e Relacionamentos,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+17,Mas a cabeça tá aqui...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+17,Mas a cabeça tá aqui...,3,"Festa, Dança e Diversão","[3, 3, 3, 3, 4]",5,3.2,3,0.4,0,alta
+17,Mas a cabeça tá aqui...,4,Ostentação e Luxo,"[2, 3, 2, 3, 4]",5,2.8,2,0.75,0,media
+17,Mas a cabeça tá aqui...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 4, 3, 3]",5,3.2,3,0.4,0,alta
+17,Mas a cabeça tá aqui...,6,Sexualidade e Sedução,"[2, 3, 2, 2, 4]",5,2.6,2,0.8,0,media
+17,Mas a cabeça tá aqui...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+17,Mas a cabeça tá aqui...,8,Superação e Fé,"[3, 3, 4, 4, 4]",5,3.6,4,0.49,1,alta
+18,Si existe alguien fiel en este mundo...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+18,Si existe alguien fiel en este mundo...,2,Vida no Crime e Violência,"[4, 3, 4, 4, 4]",5,3.8,4,0.4,1,alta
+18,Si existe alguien fiel en este mundo...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+18,Si existe alguien fiel en este mundo...,4,Ostentação e Luxo,"[3, 2, 3, 2, 2]",5,2.4,2,0.49,0,alta
+18,Si existe alguien fiel en este mundo...,5,"Sofrimento, Saudade e Melancolia","[4, 3, 4, 4, 4]",5,3.8,4,0.4,1,alta
+18,Si existe alguien fiel en este mundo...,6,Sexualidade e Sedução,"[2, 3, 3, 2, 3]",5,2.6,3,0.49,0,alta
+18,Si existe alguien fiel en este mundo...,7,Família e Maternidade,"[3, 3, 3, 2, 4]",5,3.0,3,0.63,0,media
+18,Si existe alguien fiel en este mundo...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+19,Dia 30 você vai lembrar...,1,Romance e Relacionamentos,"[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+19,Dia 30 você vai lembrar...,2,Vida no Crime e Violência,"[3, 3, 2, 3, 2]",5,2.6,3,0.49,0,alta
+19,Dia 30 você vai lembrar...,3,"Festa, Dança e Diversão","[3, 3, 2, 3, 3]",5,2.8,3,0.4,0,alta
+19,Dia 30 você vai lembrar...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+19,Dia 30 você vai lembrar...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+19,Dia 30 você vai lembrar...,6,Sexualidade e Sedução,"[2, 2, 2, 1, 2]",5,1.8,2,0.4,0,alta
+19,Dia 30 você vai lembrar...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+19,Dia 30 você vai lembrar...,8,Superação e Fé,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+20,"Nunca vai deixar de ser o que é, é...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+20,"Nunca vai deixar de ser o que é, é...",2,Vida no Crime e Violência,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+20,"Nunca vai deixar de ser o que é, é...",3,"Festa, Dança e Diversão","[3, 4, 2, 2, 4]",5,3.0,4,0.89,1,media
+20,"Nunca vai deixar de ser o que é, é...",4,Ostentação e Luxo,"[3, 3, 3, 3, 2]",5,2.8,3,0.4,0,alta
+20,"Nunca vai deixar de ser o que é, é...",5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 2, 3]",5,2.8,3,0.4,0,alta
+20,"Nunca vai deixar de ser o que é, é...",6,Sexualidade e Sedução,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+20,"Nunca vai deixar de ser o que é, é...",7,Família e Maternidade,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+20,"Nunca vai deixar de ser o que é, é...",8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,2,Vida no Crime e Violência,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,4,Ostentação e Luxo,"[3, 4, 4, 4, 3]",5,3.6,4,0.49,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,7,Família e Maternidade,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+21,Vê que sem o outro a vida é tão sem graça...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+22,"O quadro da sala, sua liberdade...",1,Romance e Relacionamentos,"[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+22,"O quadro da sala, sua liberdade...",2,Vida no Crime e Violência,"[3, 3, 4, 4, 4]",5,3.6,4,0.49,1,alta
+22,"O quadro da sala, sua liberdade...",3,"Festa, Dança e Diversão","[3, 3, 2, 2, 3]",5,2.6,3,0.49,0,alta
+22,"O quadro da sala, sua liberdade...",4,Ostentação e Luxo,"[3, 2, 3, 2, 2]",5,2.4,2,0.49,0,alta
+22,"O quadro da sala, sua liberdade...",5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+22,"O quadro da sala, sua liberdade...",6,Sexualidade e Sedução,"[2, 2, 2, 3, 2]",5,2.2,2,0.4,0,alta
+22,"O quadro da sala, sua liberdade...",7,Família e Maternidade,"[3, 2, 2, 3, 2]",5,2.4,2,0.49,0,alta
+22,"O quadro da sala, sua liberdade...",8,Superação e Fé,"[3, 4, 3, 3, 3]",5,3.2,3,0.4,0,alta
+23,Falamos da nossa paixão...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+23,Falamos da nossa paixão...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+23,Falamos da nossa paixão...,3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+23,Falamos da nossa paixão...,4,Ostentação e Luxo,"[2, 3, 2, 2, 2]",5,2.2,2,0.4,0,alta
+23,Falamos da nossa paixão...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+23,Falamos da nossa paixão...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+23,Falamos da nossa paixão...,7,Família e Maternidade,"[3, 2, 3, 2, 2]",5,2.4,2,0.49,0,alta
+23,Falamos da nossa paixão...,8,Superação e Fé,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+24,Vem comigo pra gente dançar...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+24,Vem comigo pra gente dançar...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+24,Vem comigo pra gente dançar...,3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+24,Vem comigo pra gente dançar...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+24,Vem comigo pra gente dançar...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+24,Vem comigo pra gente dançar...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+24,Vem comigo pra gente dançar...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+24,Vem comigo pra gente dançar...,8,Superação e Fé,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+25,Por que te amei assim?...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+25,Por que te amei assim?...,2,Vida no Crime e Violência,"[3, 3, 4, 3, 4]",5,3.4,3,0.49,0,alta
+25,Por que te amei assim?...,3,"Festa, Dança e Diversão","[3, 4, 3, 2, 3]",5,3.0,3,0.63,0,media
+25,Por que te amei assim?...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+25,Por que te amei assim?...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+25,Por que te amei assim?...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+25,Por que te amei assim?...,7,Família e Maternidade,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+25,Por que te amei assim?...,8,Superação e Fé,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+26,"Não é mais um menino, devia ter noção...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+26,"Não é mais um menino, devia ter noção...",2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+26,"Não é mais um menino, devia ter noção...",3,"Festa, Dança e Diversão","[2, 3, 3, 3, 3]",5,2.8,3,0.4,0,alta
+26,"Não é mais um menino, devia ter noção...",4,Ostentação e Luxo,"[3, 3, 3, 4, 2]",5,3.0,3,0.63,0,media
+26,"Não é mais um menino, devia ter noção...",5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+26,"Não é mais um menino, devia ter noção...",6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+26,"Não é mais um menino, devia ter noção...",7,Família e Maternidade,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+26,"Não é mais um menino, devia ter noção...",8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+27,"Beijo, coração...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+27,"Beijo, coração...",2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+27,"Beijo, coração...",3,"Festa, Dança e Diversão","[3, 3, 4, 3, 4]",5,3.4,3,0.49,0,alta
+27,"Beijo, coração...",4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+27,"Beijo, coração...",5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+27,"Beijo, coração...",6,Sexualidade e Sedução,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+27,"Beijo, coração...",7,Família e Maternidade,"[4, 3, 3, 4, 4]",5,3.6,4,0.49,1,alta
+27,"Beijo, coração...",8,Superação e Fé,"[3, 4, 2, 4, 4]",5,3.4,4,0.8,1,media
+28,Oi...,1,Romance e Relacionamentos,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+28,Oi...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+28,Oi...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+28,Oi...,4,Ostentação e Luxo,"[1, 1, 1, 1, 2]",5,1.2,1,0.4,0,alta
+28,Oi...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+28,Oi...,6,Sexualidade e Sedução,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+28,Oi...,7,Família e Maternidade,"[2, 2, 2, 2, 1]",5,1.8,2,0.4,0,alta
+28,Oi...,8,Superação e Fé,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+29,Meus defeitos vão virar saudade...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+29,Meus defeitos vão virar saudade...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+29,Meus defeitos vão virar saudade...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+29,Meus defeitos vão virar saudade...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+29,Meus defeitos vão virar saudade...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+29,Meus defeitos vão virar saudade...,6,Sexualidade e Sedução,"[2, 2, 2, 3, 3]",5,2.4,2,0.49,0,alta
+29,Meus defeitos vão virar saudade...,7,Família e Maternidade,"[2, 2, 3, 2, 2]",5,2.2,2,0.4,0,alta
+29,Meus defeitos vão virar saudade...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+30,Na farmácia não vende remédio pra saudade...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+30,Na farmácia não vende remédio pra saudade...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+30,Na farmácia não vende remédio pra saudade...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+30,Na farmácia não vende remédio pra saudade...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+30,Na farmácia não vende remédio pra saudade...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+30,Na farmácia não vende remédio pra saudade...,6,Sexualidade e Sedução,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+30,Na farmácia não vende remédio pra saudade...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+30,Na farmácia não vende remédio pra saudade...,8,Superação e Fé,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+31,E ela entrou tão linda...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+31,E ela entrou tão linda...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+31,E ela entrou tão linda...,3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+31,E ela entrou tão linda...,4,Ostentação e Luxo,"[3, 4, 3, 3, 4]",5,3.4,3,0.49,0,alta
+31,E ela entrou tão linda...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+31,E ela entrou tão linda...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+31,E ela entrou tão linda...,7,Família e Maternidade,"[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+31,E ela entrou tão linda...,8,Superação e Fé,"[3, 3, 3, 3, 2]",5,2.8,3,0.4,0,alta
+32,Isso antes de sentir seu coração bater...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+32,Isso antes de sentir seu coração bater...,2,Vida no Crime e Violência,"[3, 2, 2, 3, 3]",5,2.6,3,0.49,0,alta
+32,Isso antes de sentir seu coração bater...,3,"Festa, Dança e Diversão","[3, 3, 4, 3, 3]",5,3.2,3,0.4,0,alta
+32,Isso antes de sentir seu coração bater...,4,Ostentação e Luxo,"[2, 3, 2, 2, 3]",5,2.4,2,0.49,0,alta
+32,Isso antes de sentir seu coração bater...,5,"Sofrimento, Saudade e Melancolia","[3, 4, 3, 3, 3]",5,3.2,3,0.4,0,alta
+32,Isso antes de sentir seu coração bater...,6,Sexualidade e Sedução,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+32,Isso antes de sentir seu coração bater...,7,Família e Maternidade,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+32,Isso antes de sentir seu coração bater...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+33,Mas o fim dessa história é sempre o mesmo...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+33,Mas o fim dessa história é sempre o mesmo...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+33,Mas o fim dessa história é sempre o mesmo...,3,"Festa, Dança e Diversão","[2, 2, 3, 3, 3]",5,2.6,3,0.49,0,alta
+33,Mas o fim dessa história é sempre o mesmo...,4,Ostentação e Luxo,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+33,Mas o fim dessa história é sempre o mesmo...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+33,Mas o fim dessa história é sempre o mesmo...,6,Sexualidade e Sedução,"[3, 3, 3, 2, 2]",5,2.6,3,0.49,0,alta
+33,Mas o fim dessa história é sempre o mesmo...,7,Família e Maternidade,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+33,Mas o fim dessa história é sempre o mesmo...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+34,Eu tava aqui te esquecendo...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+34,Eu tava aqui te esquecendo...,2,Vida no Crime e Violência,"[3, 3, 4, 2, 4]",5,3.2,3,0.75,0,media
+34,Eu tava aqui te esquecendo...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+34,Eu tava aqui te esquecendo...,4,Ostentação e Luxo,"[1, 2, 2, 1, 2]",5,1.6,2,0.49,0,alta
+34,Eu tava aqui te esquecendo...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+34,Eu tava aqui te esquecendo...,6,Sexualidade e Sedução,"[3, 2, 2, 4, 2]",5,2.6,2,0.8,0,media
+34,Eu tava aqui te esquecendo...,7,Família e Maternidade,"[2, 2, 2, 3, 3]",5,2.4,2,0.49,0,alta
+34,Eu tava aqui te esquecendo...,8,Superação e Fé,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+35,"Vou te encher de flor, eu vou...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+35,"Vou te encher de flor, eu vou...",2,Vida no Crime e Violência,"[2, 4, 2, 3, 2]",5,2.6,2,0.8,0,media
+35,"Vou te encher de flor, eu vou...",3,"Festa, Dança e Diversão","[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+35,"Vou te encher de flor, eu vou...",4,Ostentação e Luxo,"[3, 4, 3, 3, 2]",5,3.0,3,0.63,0,media
+35,"Vou te encher de flor, eu vou...",5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 3, 4]",5,3.2,3,0.4,0,alta
+35,"Vou te encher de flor, eu vou...",6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+35,"Vou te encher de flor, eu vou...",7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+35,"Vou te encher de flor, eu vou...",8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+36,Querendo sumir com todos espelhos do mundo...,1,Romance e Relacionamentos,"[4, 4, 3, 4, 3]",5,3.6,4,0.49,1,alta
+36,Querendo sumir com todos espelhos do mundo...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+36,Querendo sumir com todos espelhos do mundo...,3,"Festa, Dança e Diversão","[2, 3, 2, 3, 3]",5,2.6,3,0.49,0,alta
+36,Querendo sumir com todos espelhos do mundo...,4,Ostentação e Luxo,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+36,Querendo sumir com todos espelhos do mundo...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 5, 5]",5,4.4,4,0.49,1,alta
+36,Querendo sumir com todos espelhos do mundo...,6,Sexualidade e Sedução,"[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+36,Querendo sumir com todos espelhos do mundo...,7,Família e Maternidade,"[2, 2, 2, 1, 2]",5,1.8,2,0.4,0,alta
+36,Querendo sumir com todos espelhos do mundo...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+37,Dizer que a gente não tem nada a ver...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+37,Dizer que a gente não tem nada a ver...,2,Vida no Crime e Violência,"[4, 4, 3, 3, 4]",5,3.6,4,0.49,1,alta
+37,Dizer que a gente não tem nada a ver...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+37,Dizer que a gente não tem nada a ver...,4,Ostentação e Luxo,"[3, 4, 3, 4, 3]",5,3.4,3,0.49,0,alta
+37,Dizer que a gente não tem nada a ver...,5,"Sofrimento, Saudade e Melancolia","[3, 2, 3, 3, 4]",5,3.0,3,0.63,0,media
+37,Dizer que a gente não tem nada a ver...,6,Sexualidade e Sedução,"[3, 2, 2, 3, 3]",5,2.6,3,0.49,0,alta
+37,Dizer que a gente não tem nada a ver...,7,Família e Maternidade,"[3, 2, 2, 2, 2]",5,2.2,2,0.4,0,alta
+37,Dizer que a gente não tem nada a ver...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+38,Ela brilha mais toda vez que te vê...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+38,Ela brilha mais toda vez que te vê...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+38,Ela brilha mais toda vez que te vê...,3,"Festa, Dança e Diversão","[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+38,Ela brilha mais toda vez que te vê...,4,Ostentação e Luxo,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+38,Ela brilha mais toda vez que te vê...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+38,Ela brilha mais toda vez que te vê...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+38,Ela brilha mais toda vez que te vê...,7,Família e Maternidade,"[3, 2, 2, 3, 2]",5,2.4,2,0.49,0,alta
+38,Ela brilha mais toda vez que te vê...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+39,Diz que eu tô sumida...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+39,Diz que eu tô sumida...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+39,Diz que eu tô sumida...,3,"Festa, Dança e Diversão","[4, 3, 3, 3, 4]",5,3.4,3,0.49,0,alta
+39,Diz que eu tô sumida...,4,Ostentação e Luxo,"[2, 3, 2, 3, 3]",5,2.6,3,0.49,0,alta
+39,Diz que eu tô sumida...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 3, 4, 4]",5,3.8,4,0.4,1,alta
+39,Diz que eu tô sumida...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+39,Diz que eu tô sumida...,7,Família e Maternidade,"[3, 3, 4, 4, 4]",5,3.6,4,0.49,1,alta
+39,Diz que eu tô sumida...,8,Superação e Fé,"[4, 3, 4, 4, 3]",5,3.6,4,0.49,1,alta
+40,Só gosta do calor...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+40,Só gosta do calor...,2,Vida no Crime e Violência,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+40,Só gosta do calor...,3,"Festa, Dança e Diversão","[2, 3, 3, 2, 3]",5,2.6,3,0.49,0,alta
+40,Só gosta do calor...,4,Ostentação e Luxo,"[2, 3, 2, 3, 3]",5,2.6,3,0.49,0,alta
+40,Só gosta do calor...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+40,Só gosta do calor...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+40,Só gosta do calor...,7,Família e Maternidade,"[2, 2, 3, 2, 2]",5,2.2,2,0.4,0,alta
+40,Só gosta do calor...,8,Superação e Fé,"[3, 2, 2, 3, 2]",5,2.4,2,0.49,0,alta
+41,Porque não para por aí...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+41,Porque não para por aí...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+41,Porque não para por aí...,3,"Festa, Dança e Diversão","[4, 4, 3, 4, 3]",5,3.6,4,0.49,1,alta
+41,Porque não para por aí...,4,Ostentação e Luxo,"[3, 3, 4, 3, 3]",5,3.2,3,0.4,0,alta
+41,Porque não para por aí...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+41,Porque não para por aí...,6,Sexualidade e Sedução,"[4, 4, 3, 3, 4]",5,3.6,4,0.49,1,alta
+41,Porque não para por aí...,7,Família e Maternidade,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+41,Porque não para por aí...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+42,Sua saudade proibida...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+42,Sua saudade proibida...,2,Vida no Crime e Violência,"[2, 2, 3, 3, 3]",5,2.6,3,0.49,0,alta
+42,Sua saudade proibida...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+42,Sua saudade proibida...,4,Ostentação e Luxo,"[1, 2, 1, 2, 1]",5,1.4,1,0.49,0,alta
+42,Sua saudade proibida...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+42,Sua saudade proibida...,6,Sexualidade e Sedução,"[3, 2, 3, 3, 4]",5,3.0,3,0.63,0,media
+42,Sua saudade proibida...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+42,Sua saudade proibida...,8,Superação e Fé,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+43,Me desbloqueia aí...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+43,Me desbloqueia aí...,2,Vida no Crime e Violência,"[2, 2, 3, 2, 2]",5,2.2,2,0.4,0,alta
+43,Me desbloqueia aí...,3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+43,Me desbloqueia aí...,4,Ostentação e Luxo,"[3, 3, 4, 2, 4]",5,3.2,3,0.75,0,media
+43,Me desbloqueia aí...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+43,Me desbloqueia aí...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+43,Me desbloqueia aí...,7,Família e Maternidade,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+43,Me desbloqueia aí...,8,Superação e Fé,"[4, 4, 4, 3, 4]",5,3.8,4,0.4,1,alta
+44,De olhar teus olhos tão lindos...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+44,De olhar teus olhos tão lindos...,2,Vida no Crime e Violência,"[2, 1, 2, 1, 1]",5,1.4,1,0.49,0,alta
+44,De olhar teus olhos tão lindos...,3,"Festa, Dança e Diversão","[2, 3, 3, 3, 3]",5,2.8,3,0.4,0,alta
+44,De olhar teus olhos tão lindos...,4,Ostentação e Luxo,"[3, 3, 4, 3, 3]",5,3.2,3,0.4,0,alta
+44,De olhar teus olhos tão lindos...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+44,De olhar teus olhos tão lindos...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+44,De olhar teus olhos tão lindos...,7,Família e Maternidade,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+44,De olhar teus olhos tão lindos...,8,Superação e Fé,"[4, 3, 3, 3, 3]",5,3.2,3,0.4,0,alta
+45,E quando estiver num dia triste...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+45,E quando estiver num dia triste...,2,Vida no Crime e Violência,"[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+45,E quando estiver num dia triste...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+45,E quando estiver num dia triste...,4,Ostentação e Luxo,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+45,E quando estiver num dia triste...,5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+45,E quando estiver num dia triste...,6,Sexualidade e Sedução,"[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+45,E quando estiver num dia triste...,7,Família e Maternidade,"[2, 3, 3, 3, 3]",5,2.8,3,0.4,0,alta
+45,E quando estiver num dia triste...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",2,Vida no Crime e Violência,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",3,"Festa, Dança e Diversão","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",4,Ostentação e Luxo,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",5,"Sofrimento, Saudade e Melancolia","[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",7,Família e Maternidade,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+46,"Minha mulher, menina, me ensina a ser vida louca...",8,Superação e Fé,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+47,O comércio era pra tá fechado...,1,Romance e Relacionamentos,"[3, 2, 3, 3, 3]",5,2.8,3,0.4,0,alta
+47,O comércio era pra tá fechado...,2,Vida no Crime e Violência,"[3, 4, 3, 3, 4]",5,3.4,3,0.49,0,alta
+47,O comércio era pra tá fechado...,3,"Festa, Dança e Diversão","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+47,O comércio era pra tá fechado...,4,Ostentação e Luxo,"[2, 2, 2, 2, 3]",5,2.2,2,0.4,0,alta
+47,O comércio era pra tá fechado...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 2, 2]",5,2.0,2,0.0,0,alta
+47,O comércio era pra tá fechado...,6,Sexualidade e Sedução,"[2, 2, 2, 2, 1]",5,1.8,2,0.4,0,alta
+47,O comércio era pra tá fechado...,7,Família e Maternidade,"[2, 2, 2, 1, 2]",5,1.8,2,0.4,0,alta
+47,O comércio era pra tá fechado...,8,Superação e Fé,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+48,A melhor coisa que me aconteceu...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+48,A melhor coisa que me aconteceu...,2,Vida no Crime e Violência,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+48,A melhor coisa que me aconteceu...,3,"Festa, Dança e Diversão","[3, 4, 4, 3, 4]",5,3.6,4,0.49,1,alta
+48,A melhor coisa que me aconteceu...,4,Ostentação e Luxo,"[3, 3, 3, 3, 2]",5,2.8,3,0.4,0,alta
+48,A melhor coisa que me aconteceu...,5,"Sofrimento, Saudade e Melancolia","[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+48,A melhor coisa que me aconteceu...,6,Sexualidade e Sedução,"[3, 3, 3, 2, 4]",5,3.0,3,0.63,0,media
+48,A melhor coisa que me aconteceu...,7,Família e Maternidade,"[4, 4, 4, 4, 3]",5,3.8,4,0.4,1,alta
+48,A melhor coisa que me aconteceu...,8,Superação e Fé,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+49,Só não parece um casal...,1,Romance e Relacionamentos,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+49,Só não parece um casal...,2,Vida no Crime e Violência,"[4, 4, 3, 3, 3]",5,3.4,3,0.49,0,alta
+49,Só não parece um casal...,3,"Festa, Dança e Diversão","[3, 3, 3, 4, 3]",5,3.2,3,0.4,0,alta
+49,Só não parece um casal...,4,Ostentação e Luxo,"[4, 3, 3, 3, 4]",5,3.4,3,0.49,0,alta
+49,Só não parece um casal...,5,"Sofrimento, Saudade e Melancolia","[2, 2, 2, 3, 3]",5,2.4,2,0.49,0,alta
+49,Só não parece um casal...,6,Sexualidade e Sedução,"[4, 4, 4, 4, 4]",5,4.0,4,0.0,1,alta
+49,Só não parece um casal...,7,Família e Maternidade,"[3, 3, 3, 3, 3]",5,3.0,3,0.0,0,alta
+49,Só não parece um casal...,8,Superação e Fé,"[3, 3, 4, 4, 4]",5,3.6,4,0.49,1,alta
